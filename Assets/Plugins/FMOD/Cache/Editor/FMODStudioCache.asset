@@ -232,7 +232,7 @@ MonoBehaviour:
   Path: Assets/FMOD Tavern AwG 1/Tavern1/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639035786522994232
+  lastModified: 639039288810951947
   FileSizes:
   - Name: Desktop
     Value: 6931392
@@ -269,7 +269,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 3118433597243520478}
   cacheVersion: 131856
-  cacheTime: 639035786523015198
+  cacheTime: 639039288810973347
   SerializableEventsDict:
   - key: event:/Ambient/sfx_ambient_forest
     index: 0
@@ -333,7 +333,7 @@ MonoBehaviour:
   Path: Assets/FMOD Tavern AwG 1/Tavern1/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639035786523015198
+  lastModified: 639039288810973347
   FileSizes:
   - Name: Desktop
     Value: 2046
