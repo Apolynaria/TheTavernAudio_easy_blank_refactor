@@ -286,10 +286,10 @@ MonoBehaviour:
   Path: Assets/FMOD Tavern AwG 1/Tavern1/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639045354914911369
+  lastModified: 639057430634530766
   FileSizes:
   - Name: Desktop
-    Value: 7253632
+    Value: 7253280
   Exists: 1
 --- !u!114 &11400000
 MonoBehaviour:
@@ -328,7 +328,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 3118433597243520478}
   cacheVersion: 131856
-  cacheTime: 639045354914936414
+  cacheTime: 639057430634550775
   SerializableEventsDict:
   - key: event:/Ambient/sfx_ambient_forest
     index: 0
@@ -381,7 +381,7 @@ MonoBehaviour:
   Banks:
   - {fileID: -583973504389915832}
   IsStream: 1
-  Is3D: 1
+  Is3D: 0
   IsOneShot: 0
   Parameters: []
   MinDistance: 1
@@ -435,7 +435,7 @@ MonoBehaviour:
   Banks:
   - {fileID: -583973504389915832}
   IsStream: 0
-  Is3D: 1
+  Is3D: 0
   IsOneShot: 1
   Parameters: []
   MinDistance: 1
@@ -456,10 +456,10 @@ MonoBehaviour:
   Path: Assets/FMOD Tavern AwG 1/Tavern1/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639045354914936414
+  lastModified: 639057430634550775
   FileSizes:
   - Name: Desktop
-    Value: 2270
+    Value: 2350
   Exists: 1
 --- !u!114 &3624925873955434699
 MonoBehaviour:

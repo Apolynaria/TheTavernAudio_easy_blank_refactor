@@ -8,7 +8,7 @@
 			<value>mfx_tavern_music</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{ce8eb95c-7df7-4810-96dd-683ceb31ca98}</destination>
@@ -86,7 +86,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{d603399a-c251-409d-b287-5084942f3c55}">
 		<property name="volume">
-			<value>-6</value>
+			<value>-14</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{aff2505f-ef08-4a60-b483-96efb0f7b889}</destination>
@@ -177,7 +177,6 @@
 	<object class="MixerBusEffectChain" id="{2543be37-68e9-47ed-9705-1e57e9550d36}">
 		<relationship name="effects">
 			<destination>{ed66f395-f752-4a09-8914-0b2f0e94e98a}</destination>
-			<destination>{f3d562ab-b556-4001-b3ed-c30e6b7a87f0}</destination>
 			<destination>{4d076486-e617-4886-b0c9-61d188ddbb12}</destination>
 		</relationship>
 	</object>
@@ -190,14 +189,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{3efd8343-1d76-47f7-a5cf-4f2086e1478a}" />
 	<object class="MixerBusFader" id="{ed66f395-f752-4a09-8914-0b2f0e94e98a}" />
-	<object class="SpatialiserEffect" id="{f3d562ab-b556-4001-b3ed-c30e6b7a87f0}">
-		<property name="minimumDistance">
-			<value>6.4000001</value>
-		</property>
-		<property name="maximumDistance">
-			<value>25</value>
-		</property>
-	</object>
 	<object class="LowpassSimpleEffect" id="{4d076486-e617-4886-b0c9-61d188ddbb12}">
 		<property name="cutoff">
 			<value>20000</value>

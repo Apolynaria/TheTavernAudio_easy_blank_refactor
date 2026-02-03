@@ -8,7 +8,7 @@
 			<value>bottle</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{d13eb154-3c6f-4823-ac59-90dc575262b4}</destination>
@@ -107,7 +107,6 @@
 		<relationship name="effects">
 			<destination>{314b1342-6e09-44c5-b630-2c53797ca1ff}</destination>
 			<destination>{09887a05-7645-4da4-b2d2-9d9319f51126}</destination>
-			<destination>{edf0368f-0af7-4930-8583-321d0daed9b6}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{c812d8f4-c638-4bf2-8b64-25a1018b5ba1}" />
@@ -146,7 +145,6 @@
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{09887a05-7645-4da4-b2d2-9d9319f51126}" />
-	<object class="SpatialiserEffect" id="{edf0368f-0af7-4930-8583-321d0daed9b6}" />
 	<object class="RandomizerModulator" id="{af7280f8-de63-4a71-ae87-367d824674d1}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>volume</value>
